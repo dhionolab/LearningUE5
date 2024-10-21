@@ -14,4 +14,6 @@ class RPGDEMO_API ASimpleCharacter : public ASimpleCharacterBase
 {
 	GENERATED_BODY()
 	
+public:
+	ASimpleCharacter();
 };
